@@ -1,57 +1,75 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kaykysantinelli?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/kaykysantinelli" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouzas.maurodesouzas&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kaykysantinelli.kaykysantinelli" />
 </div>
 
 ###
 
-<h1 align="center">Olá 👋</h1>
+<h1 align="center">Kayky Santinelli 👋</h1>
 
-###
+<h3 align="center">Fullstack Developer • SaaS Builder • System Architecture Focused</h3>
 
-<h3 align="left">👩‍💻 Sobre mim</h3>
+---
 
-###
+<h3 align="left">👨‍💻 Sobre mim</h3>
 
-<p align="left">Desenvolvedor Fullstack focado em arquitetura de sistemas, SaaS e organização operacional.<br><br>Atualmente desenvolvendo um produto próprio com arquitetura multi-tenant, voltado para gestão interna, automação de processos e dashboards administrativos.<br><br>Tenho experiência na criação de sistemas internos corporativos, com foco em performance, clareza estrutural e escalabilidade.</p>
+<p align="left">
+Desenvolvedor Fullstack focado na construção de sistemas escaláveis e produtos SaaS.
 
-###
+Atualmente desenvolvendo um sistema multi-tenant modular voltado para gestão operacional, automação de processos e dashboards administrativos.
 
-<h3 align="left">🛠 Linguagens e ferramentas</h3>
+Tenho experiência prática na criação de sistemas internos corporativos, com foco em organização estrutural, clareza arquitetural, performance e escalabilidade.
+</p>
 
-###
+---
+
+<h3 align="left">🚀 Foco atual</h3>
+
+<ul>
+  <li>Arquitetura multi-tenant e modular</li>
+  <li>Produtos SaaS B2B</li>
+  <li>Sistemas internos e automação operacional</li>
+  <li>Dashboards administrativos completos</li>
+  <li>Organização e estruturação de código em larga escala</li>
+</ul>
+
+---
+
+<h3 align="left">🛠 Stack Principal</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
 </div>
 
-###
+---
+
+<h3 align="left">🎯 Objetivo</h3>
+
+<p align="left">
+Construir produtos digitais escaláveis que resolvam problemas reais de operação e gestão, unindo visão técnica com mentalidade de negócio.
+</p>
