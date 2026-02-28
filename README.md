@@ -1,28 +1,28 @@
-<h3 align="left">👨‍💻 Sobre mim</h3>
+<h3 align="left">Sobre</h3>
 
 <p align="left">
-Desenvolvedor Fullstack focado na construção de sistemas escaláveis e produtos SaaS.
+Desenvolvedor Fullstack especializado na construção de sistemas web estruturados e produtos SaaS escaláveis.
 
-Atualmente desenvolvendo um sistema multi-tenant modular voltado para gestão operacional, automação de processos e dashboards administrativos.
+Atuo no desenvolvimento de arquiteturas multi-tenant modulares voltadas para gestão operacional, organização de processos e dashboards administrativos de alto desempenho.
 
-Tenho experiência prática na criação de sistemas internos corporativos, com foco em organização estrutural, clareza arquitetural, performance e escalabilidade.
+Minha abordagem combina clareza arquitetural, organização de código e visão estratégica de longo prazo.
 </p>
 
 ---
 
-<h3 align="left">🚀 Foco atual</h3>
+<h3 align="left">Atuação</h3>
 
 <ul>
   <li>Arquitetura multi-tenant e modular</li>
-  <li>Produtos SaaS B2B</li>
-  <li>Sistemas internos e automação operacional</li>
+  <li>Desenvolvimento de produtos SaaS B2B</li>
+  <li>Sistemas internos corporativos</li>
   <li>Dashboards administrativos completos</li>
-  <li>Organização e estruturação de código em larga escala</li>
+  <li>Estruturação e organização de código em larga escala</li>
 </ul>
 
 ---
 
-<h3 align="left">🛠 Stack Principal</h3>
+<h3 align="left">Stack Principal</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
@@ -42,8 +42,8 @@ Tenho experiência prática na criação de sistemas internos corporativos, com 
 
 ---
 
-<h3 align="left">🎯 Objetivo</h3>
+<h3 align="left">Direcionamento</h3>
 
 <p align="left">
-Construir produtos digitais escaláveis que resolvam problemas reais de operação e gestão, unindo visão técnica com mentalidade de negócio.
+Foco na construção de produtos digitais escaláveis que resolvem problemas reais de operação e gestão, unindo solidez técnica com mentalidade de negócio.
 </p>
