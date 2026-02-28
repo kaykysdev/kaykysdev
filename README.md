@@ -1,8 +1,8 @@
 <h3 align="left">Sobre</h3>
 
 <p align="left">
-Desenvolvedor Fullstack especializado na construção de sistemas web estruturados e produtos SaaS escaláveis.
-
+Desenvolvedor especializado na arquitetura e construção de sistemas web estruturados e produtos SaaS escaláveis.
+  
 Atuo no desenvolvimento de arquiteturas multi-tenant modulares voltadas para gestão operacional, organização de processos e dashboards administrativos de alto desempenho.
 
 Minha abordagem combina clareza arquitetural, organização de código e visão estratégica de longo prazo.
