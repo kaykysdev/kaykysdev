@@ -33,15 +33,6 @@ conhecimento técnico na proteção de infraestrutura e resposta a incidentes.
 
 ---
 
-## 📈 Em evolução
-
-- [ ] Hardening de sistemas
-- [ ] Fundamentos de segurança de redes
-- [ ] Resposta a incidentes
-- [ ] Certificação CompTIA Security+ (ou equivalente)
-
----
-
 ## 📫 Contato
 
 - LinkedIn: [in/kaykysantinelli](https://linkedin.com/in/kaykysantinelli)
