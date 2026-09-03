@@ -6,7 +6,7 @@ prática em suporte técnico, administração de sistemas e desenvolvimento.
 - 🔎 Foco atual: fundamentos de Cybersecurity, resposta a incidentes, SOC
 - 🐍 Uso Python para automação, scripts e análise de dados
 - 🛠️ Venho de uma base sólida em suporte técnico e sistemas corporativos
-- 📚 Aprendendo continuamente — veja os certificados em [Formação](#formação)
+- 📚 Aprendendo continuamente 
 
 ---
 
